@@ -1,10 +1,10 @@
 import { NativeModules } from 'react-native';
 
-const { PTRIDFA } = NativeModules;
+const { NELIOIDFA } = NativeModules;
 
 class IDFA {
   getIDFA() {
-    return PTRIDFA.getIDFA();
+    return NELIOIDFA.getIDFA();
   }
 }
 

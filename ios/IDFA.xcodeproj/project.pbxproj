@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C3B08D8F1DF6EE740062C725 /* PTRIDFA.m in Sources */ = {isa = PBXBuildFile; fileRef = C3B08D8E1DF6EE740062C725 /* PTRIDFA.m */; };
+		C3B08D8F1DF6EE740062C725 /* NELIOIDFA.m in Sources */ = {isa = PBXBuildFile; fileRef = C3B08D8E1DF6EE740062C725 /* NELIOIDFA.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,8 +24,8 @@
 
 /* Begin PBXFileReference section */
 		C37A6A501D4244F100821B37 /* libIDFA.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libIDFA.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3B08D8D1DF6EE740062C725 /* PTRIDFA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTRIDFA.h; sourceTree = "<group>"; };
-		C3B08D8E1DF6EE740062C725 /* PTRIDFA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTRIDFA.m; sourceTree = "<group>"; };
+		C3B08D8D1DF6EE740062C725 /* NELIOIDFA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NELIOIDFA.h; sourceTree = "<group>"; };
+		C3B08D8E1DF6EE740062C725 /* NELIOIDFA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NELIOIDFA.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +58,8 @@
 		C37A6A521D4244F100821B37 /* IDFA */ = {
 			isa = PBXGroup;
 			children = (
-				C3B08D8D1DF6EE740062C725 /* PTRIDFA.h */,
-				C3B08D8E1DF6EE740062C725 /* PTRIDFA.m */,
+				C3B08D8D1DF6EE740062C725 /* NELIOIDFA.h */,
+				C3B08D8E1DF6EE740062C725 /* NELIOIDFA.m */,
 			);
 			path = IDFA;
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C3B08D8F1DF6EE740062C725 /* PTRIDFA.m in Sources */,
+				C3B08D8F1DF6EE740062C725 /* NELIOIDFA.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,4 +1,4 @@
-package com.PTR.IDFA;
+package com.NELIO.IDFA;
 
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
@@ -14,7 +14,7 @@ public class IDFA extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-        return "PTRIDFA";
+        return "NELIOIDFA";
     }
 
     @ReactMethod

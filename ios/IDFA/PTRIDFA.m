@@ -1,17 +1,17 @@
 //
-//  PTRIDFA.m
+//  NELIOIDFA.m
 //  IDFA
 //
 //  Created by Tomas Roos on 22/07/16.
 //  Copyright © 2016 Tomas Roos. All rights reserved.
 //
 
-#import "PTRIDFA.h"
+#import "NELIOIDFA.h"
 #import <React/RCTUtils.h>
 #import <UIKit/UIKit.h>
 @import AdSupport;
 
-@implementation PTRIDFA
+@implementation NELIOIDFA
 
 RCT_EXPORT_MODULE()
 

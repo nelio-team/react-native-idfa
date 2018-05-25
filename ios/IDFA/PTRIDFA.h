@@ -1,5 +1,5 @@
 #import <React/RCTBridgeModule.h>
 
-@interface PTRIDFA : NSObject <RCTBridgeModule>
+@interface NELIOIDFA : NSObject <RCTBridgeModule>
 
 @end

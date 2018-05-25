@@ -3,7 +3,7 @@ package com.basic;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.PTR.IDFA.IDFAPackage;
+import com.NELIO.IDFA.IDFAPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;

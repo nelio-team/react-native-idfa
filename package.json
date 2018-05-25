@@ -1,11 +1,11 @@
 {
-  "name": "@ptomasroos/react-native-idfa",
+  "name": "@nelio-team/react-native-idfa",
   "version": "2.1.0",
   "description": "Android and iOS module to read IDFA",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptomasroos/react-native-idfa.git"
+    "url": "git+https://github.com/nelio-team/react-native-idfa.git"
   },
   "keywords": [
     "react-native-idfa",
@@ -20,10 +20,9 @@
     "ios",
     "android"
   ],
-  "author": "Tomas Roos <ptomasroos@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ptomasroos/react-native-idfa/issues"
+    "url": "https://github.com/nelio-team/react-native-idfa/issues"
   },
-  "homepage": "https://github.com/ptomasroos/react-native-idfa#readme"
+  "homepage": "https://github.com/nelio-team/react-native-idfa#readme"
 }

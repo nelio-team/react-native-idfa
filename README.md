@@ -3,7 +3,7 @@
 ## How to install
 
 ```
-npm install @ptomasroos/react-native-idfa
+npm install @nelio-team/react-native-idfa
 react-native link
 ```
 
@@ -15,7 +15,7 @@ Add AdSupport.framework under "Link Binary With Libraries".
 ## How to use!
 
 ```
-import { IDFA } from '@ptomasroos/react-native-idfa';
+import { IDFA } from '@nelio-team/react-native-idfa';
 
 class Basic extends Component {
   state = {
@@ -44,7 +44,7 @@ class Basic extends Component {
 ## How to run example
 
 ```
-git clone git@github.com:ptomasroos/react-native-idfa.git
+git clone git@github.com:nelio-team/react-native-idfa.git
 cd react-native-idfa/examples/Basic
 npm install
 npm run start
