@@ -1,4 +1,4 @@
-package com.NELIO.IDFA;
+package com.nelio.idfa;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
