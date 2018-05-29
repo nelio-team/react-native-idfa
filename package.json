@@ -20,6 +20,7 @@
     "ios",
     "android"
   ],
+  "author": "Nelio Team <hello@nelio.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nelio-team/react-native-idfa/issues"
